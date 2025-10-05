@@ -1,0 +1,1 @@
+Aplikasi NodeJS Express + PostgreSQL yang berjalan di GitHub Codespaces, termasuk: autentikasi JWT, middleware RBAC sederhana, CRUD untuk resource users dan products, file Docker Compose untuk PostgreSQL, skrip inisialisasi DB, dan perintah untuk menjalankan di Codespace.

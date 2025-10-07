@@ -24,3 +24,6 @@ Aplikasi NodeJS Express + PostgreSQL yang berjalan di GitHub Codespaces, termasu
 └── /utils
     └── hash.js
 
+
+Menjalankan docker compose : 
+docker-compose up -d
